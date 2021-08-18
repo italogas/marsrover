@@ -1,0 +1,4 @@
+
+Plateu upper right X: 5, plateu upper right Y: 5
+Rover X: 1, Rover Y: 2, Orientation: W
+Rover X: 2, Rover Y: 0, Orientation: W
